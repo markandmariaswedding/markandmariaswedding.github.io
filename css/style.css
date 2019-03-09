@@ -749,7 +749,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker:hover .details {
-  bottom: 0;
+  bottom: -60px;
+  visibility: hidden;
 }
 
 #speakers-details {
