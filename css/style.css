@@ -516,6 +516,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro h1 span {
   color: #989680;
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 #intro p {
